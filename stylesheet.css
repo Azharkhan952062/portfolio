@@ -345,11 +345,11 @@ section {
 }
 
 .progress-line.css span {
-  max-width: 60%;
+  max-width: 70%;
 }
 
 .progress-line.java span {
-  max-width: 70%;
+  max-width: 85%;
 }
 
 .progress-line.javascript span {
@@ -357,15 +357,57 @@ section {
 }
 
 .progress-line.python span {
-  max-width: 50%;
+  max-width: 85%;
 }
 
 .progress-line.react span {
-  max-width: 75%;
+  max-width: 85%;
 }
 
 .progress-line.node span {
-  max-width: 65%;
+  max-width: 80%;
+}
+
+/* AI & Generative AI */
+.progress-line.llm span {
+  max-width: 75%;
+}
+
+.progress-line.rag span {
+  max-width: 80%;
+}
+
+.progress-line.gemini span {
+  max-width: 80%;
+}
+
+.progress-line.embeddings span {
+  max-width: 70%;
+}
+
+.progress-line.faiss span {
+  max-width: 75%;
+}
+
+.progress-line.ocr span {
+  max-width: 70%;
+}
+
+/* Tools */
+.progress-line.git span {
+  max-width: 80%;
+}
+
+.progress-line.github span {
+  max-width: 85%;
+}
+
+.progress-line.postman span {
+  max-width: 75%;
+}
+
+.progress-line.vscode span {
+  max-width: 90%;
 }
 
 .container1:last-child {
